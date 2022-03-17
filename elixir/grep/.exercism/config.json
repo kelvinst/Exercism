@@ -1,0 +1,26 @@
+{
+  "blurb": "Search a file for lines matching a regular expression pattern. Return the line number and contents of each matching line.",
+  "authors": [
+    "cezarykosko"
+  ],
+  "contributors": [
+    "angelikatyborska",
+    "Cohen-Carlisle",
+    "devonestes",
+    "neenjaw",
+    "sotojuan"
+  ],
+  "files": {
+    "solution": [
+      "lib/grep.ex"
+    ],
+    "test": [
+      "test/grep_test.exs"
+    ],
+    "example": [
+      ".meta/example.ex"
+    ]
+  },
+  "source": "Conversation with Nate Foster.",
+  "source_url": "http://www.cs.cornell.edu/Courses/cs3110/2014sp/hw/0/ps0.pdf"
+}
